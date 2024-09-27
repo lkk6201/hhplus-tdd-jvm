@@ -1,2 +1,4 @@
 spring:
   application.name: hhplus-tdd
+point:
+  max-balance: 100000
